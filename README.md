@@ -1,6 +1,6 @@
 # Jekyll Tailwind template
 
-This tenplate configures [Jekyll] to work with [Tailwind CSS] and [PostCSS].
+This template configures [Jekyll] to work with [Tailwind CSS] and [PostCSS].
 
 [jekyll]: https://jekyllrb.com
 [tailwind css]: https://tailwindcss.com
